@@ -1,48 +1,34 @@
 {
-  "flags": 32768,
-  "components": [
+    "component": {
+        "type": 17,
+        "spoiler": false,
+        "accent_color": 1752220,
+        "components": [
     {
-      "type": 17,
-      "components": [
+      "type": 12,
+      "items": [
         {
-          "type": 10,
-          "content": "asd"
+          "media": {
+            "url": "https://discord-webhook.com/uploads/58e8168e53de9a0c7615e273c970d40b.png"
+          }
         },
         {
-          "type": 14,
-          "spacing": 1,
-          "divider": true
-        },
+          "media": {
+            "url": "https://discord-webhook.com/uploads/0135c25b929520dcb3da2868fc862bb1.png"
+          }
+        }
+      ]
+    },
+    {
+      "type": 12,
+      "items": [
         {
-          "type": 10,
-          "content": "asd"
-        },
-        {
-          "type": 12,
-          "items": [
-            {
-              "media": {
-                "url": "https://discord-webhook.com/uploads/58e8168e53de9a0c7615e273c970d40b.png"
-              }
-            },
-            {
-              "media": {
-                "url": "https://discord-webhook.com/uploads/0135c25b929520dcb3da2868fc862bb1.png"
-              }
-            }
-          ]
-        },
-        {
-          "type": 12,
-          "items": [
-            {
-              "media": {
-                "url": "https://discord-webhook.com/uploads/86ead5ae6c52001ddb62d4ae6a7c345a.png"
-              }
-            }
-          ]
+          "media": {
+            "url": "https://discord-webhook.com/uploads/86ead5ae6c52001ddb62d4ae6a7c345a.png"
+          }
         }
       ]
     }
   ]
+    }
 }
