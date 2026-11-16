@@ -4,56 +4,28 @@
         "spoiler": false,
         "accent_color": 1752220,
         "components": [
-            {
-                "type": 12,
-                "items": [
-                    {
-                        "media": {
-                            "url": "https://i.imgur.com/BRrQHDs.jpeg"
-                        }
-                    }
-                ]
-            },
-            {
-                "type": 12,
-                "items": [
-                    {
-                        "media": {
-                            "url": "https://i.imgur.com/IxjPGnt.jpeg"
-                        }
-                    }
-                ]
-            },
-            {
-                "type": 12,
-                "items": [
-                    {
-                        "media": {
-                            "url": "https://i.imgur.com/e8DWXNN.jpeg"
-                        }
-                    }
-                ]
-            },
-            {
-                "type": 12,
-                "items": [
-                    {
-                        "media": {
-                            "url": "https://i.imgur.com/FBSidBB.jpeg"
-                        }
-                    }
-                ]
-            },
-            {
-                "type": 12,
-                "items": [
-                    {
-                        "media": {
-                            "url": "https://i.imgur.com/djra7Z2.jpeg"
-                        }
-                    }
-                ]
-            }
-        ]
+    {
+      "type": 12,
+      "items": [
+        {
+          "media": {
+            "url": "https://discord-webhook.com/uploads/d23e26ca77d7d9d23c88679487bf6656.png"
+          },
+          "description": "New skins in EN"
+        }
+      ]
+    },
+    {
+      "type": 12,
+      "items": [
+        {
+          "media": {
+            "url": "https://discord-webhook.com/uploads/b3ed6d174bfc87f9d6d76352789caaa8.png"
+          },
+          "description": "New skins in CN"
+        }
+      ]
+    }
+  ]
     }
 }
