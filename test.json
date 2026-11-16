@@ -9,18 +9,23 @@
       "items": [
         {
           "media": {
-            "url": "https://discord-webhook.com/uploads/d23e26ca77d7d9d23c88679487bf6656.png"
+            "url": "https://cdn.discordapp.com/attachments/800826400197574660/1571807143693262910/image.png?ex=6afc12f9&is=6afac179&hm=65d10198105fa14c35989f7a51ea83e9fdb505c19a330574130b6b593ad5827f&"
           },
           "description": "New skins in EN"
         }
       ]
     },
     {
+      "type": 14,
+      "spacing": 1,
+      "divider": true
+    },
+    {
       "type": 12,
       "items": [
         {
           "media": {
-            "url": "https://discord-webhook.com/uploads/b3ed6d174bfc87f9d6d76352789caaa8.png"
+            "url": "https://cdn.discordapp.com/attachments/800826400197574660/1571807218389491742/image.png?ex=6afc130b&is=6afac18b&hm=fbf24fd7b1712e67c14ab65d17964dedf3a48cddafa6d2b788685a32a8a40323&"
           },
           "description": "New skins in CN"
         }
